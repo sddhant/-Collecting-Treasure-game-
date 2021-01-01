@@ -1,1 +1,1 @@
-# trex-run
+ Collecting Treasure game 
